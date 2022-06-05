@@ -1,0 +1,31 @@
+{
+	"name": "Lenovo Ideapad XAB-123 laptop",
+	"price": 50000,
+	"brand": "Lenovo",
+	"description": "Lenovo Ideapad XAB-123 multipurpose laptop with 16GB RAM, 1TB Hard disk",
+	"stock": 30
+}
+
+{
+	"name": "Redmi Y3",
+	"price": 10000,
+	"brand": "Mi",
+	"description": "Redmi Y3 smartphone with 8GB RAM, 64GB storage",
+	"stock": 15
+}
+
+{
+	"name": "Boat Nirvana Noise Cancelling Headphones",
+	"price": 4000,
+	"brand": "Boat",
+	"description": "Latest Boat Noise Cancelling headphones",
+	"stock": 20
+}
+
+{
+	"name": "Fire bolt smartwatch",
+	"price": 2500,
+	"brand": "Firebolt",
+	"description": "Smartwatch with exercise modes, calorie counter, steps counter, notifications",
+	"stock": 25
+}
