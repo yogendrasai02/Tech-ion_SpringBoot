@@ -25,7 +25,7 @@ public class UserController {
         User[] users = restTemplate.getForObject(getUsersApiURI, User[].class);
         assert users != null;
         for(User user: users) {
-            System.out.println(user);
+            logger.info("User: {}", user);
         }
         return List.of(users);
     }
